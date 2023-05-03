@@ -3,7 +3,7 @@
   background-image: none;
   position: static;
   left: auto;
-  width: 414px;
+  /* width: 414px; */
   margin-left: 0;
   margin-right: 0;
   text-align: left;
@@ -68,7 +68,7 @@ a {
   background-color: rgba(255, 255, 255, 1);
   box-sizing: border-box;
   border-width: 1px;
-  border-style: solid;
+
   border-color: rgba(215, 215, 215, 1);
   border-radius: 0px;
   -moz-box-shadow: none;
@@ -116,7 +116,7 @@ a {
   background-color: rgba(26, 81, 184, 1);
   box-sizing: border-box;
   border-width: 1px;
-  border-style: solid;
+
   border-color: rgba(26, 81, 184, 1);
   border-radius: 0px;
   -moz-box-shadow: none;
@@ -768,7 +768,7 @@ a {
   background-color: rgba(26, 81, 184, 1);
   box-sizing: border-box;
   border-width: 1px;
-  border-style: solid;
+
   border-color: rgba(255, 255, 255, 1);
   border-radius: 5px;
   -moz-box-shadow: none;
